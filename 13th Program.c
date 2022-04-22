@@ -1,5 +1,5 @@
 /*
-Write a short program that prints an integer number, a floating number, a double number and a character number.
+Write a short program that prints an integer number, a floating number, a double number and a character.
 Update of 12th Program.
 */
 //Uses of Data Type.(Keyword,Format Specifier,Variable)
