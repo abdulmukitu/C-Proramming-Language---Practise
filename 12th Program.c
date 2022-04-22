@@ -1,5 +1,5 @@
 /*
-Write a program that prints an integer number, a floating number, a double number and a character number.
+Write a program that prints an integer number, a floating number, a double number and a character.
 */
 //Uses of Data Type.(Keyword,Format Specifier,Variable)
 #include<stdio.h>
